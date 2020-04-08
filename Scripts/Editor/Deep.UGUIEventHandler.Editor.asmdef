@@ -1,0 +1,17 @@
+{
+    "name": "Deep.UGUIEventHandler.Editor",
+    "references": [
+        "GUID:09e82e7820eb55448a963c778db79118"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "com.deep.ugui.event-system-handlers",
+  "displayName": "UGUI Event System Handlers",
+  "version": "1.0.0",
+  "unity": "2019.3",
+  "description": "Handlers implementation of UnityEngine.EventSystems.",
+  "keywords": [ "Unity", "EventSystems" ],
+  "license": "MIT",
+  "category": "EventSystems",
+  "editorOnly": false,
+  "upmSupport": true,
+  "dependencies": {}
+}
